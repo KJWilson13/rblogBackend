@@ -1,0 +1,17 @@
+
+body{
+  margin: 20px 40px;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+}
+.top{
+  text-align: center;
+  margin-top: 120px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 10px;
+  /* background-color: firebrick; */
+}
